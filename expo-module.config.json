@@ -1,3 +1,8 @@
 {
-  "platforms": ["ios"]
+  "platforms": ["ios"],
+  "ios": {
+    "modulesClassNames": [
+      "RNICloudStore"
+    ]
+  }
 }
