@@ -3,6 +3,7 @@
   "ios": {
     "modules": [
       "RNICloudStore"
-    ]
+    ],
+    "podspecPath": "./RNICloudStore.podspec"
   }
 }
